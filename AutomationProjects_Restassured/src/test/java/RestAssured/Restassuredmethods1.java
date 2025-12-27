@@ -15,6 +15,7 @@ import org.testng.annotations.Test;
 
 public class Restassuredmethods1
 {
+	
 
 //@Test
 void GetUssers()
